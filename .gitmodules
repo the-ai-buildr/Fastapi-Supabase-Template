@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+[submodule "backend/app/stripe_home"]
+	path = backend/app/stripe_home
+	url = https://github.com/TechWithTy/fast_stripe_python_template.git
+
+
+
+[submodule "backend/app/supabase_home"]
+	path = backend/app/supabase_home
+	url = https://github.com/TechWithTy/fast_supabase_python_template.git
+
+[submodule "backend/app/model_context_protocol"]
+	path = backend/app/model_context_protocol
+	url = https://github.com/TechWithTy/lightspeed_mcp.git
